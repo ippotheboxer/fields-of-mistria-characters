@@ -1,0 +1,14 @@
+[{
+    "name": "Celine",
+    "occupation":["Gardener", "Part-Timer"],
+    "relatives":["Nora (Mother)", "Holt (Father)", "Dell (Younger Sister)"],
+    "martial_status": "Single",
+    "birthday": "Summer 14",
+    "romanceable": true,
+    "species": "Human",
+    "appearance": "Celine has light turquoise eyes and fair skin. Her blonde hair reaches to her waist and is typically set in a braided half updo. Occasionally, she puts her hair in braids.",
+    "personality": "Celine is friendly, kind, and loves interacting with both the player and the other villagers. She loves nature and studying plants, and thus you can often find Celine working in her garden. She has a book called the Codex Mistria that houses information on various flowers and plants. At the inn on Friday nights, you can see her playing D&D with her friends, which shows she enjoys roleplaying.",
+    "story": "Celine lives northward of the farm in a cottage. She gifts the player a hoe and three bags of tulip seeds upon starting a new game. Her family owns the General Store.",
+    "filename": "celine.png"
+}
+]
