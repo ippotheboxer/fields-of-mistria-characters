@@ -1,12 +1,16 @@
 # Fields of Mistria Data
 
+![Key-Art-Group](https://github.com/user-attachments/assets/c17417af-e4ad-4b34-81e1-d9b9f6e8f9e5)
+<sub>*artwork from [official mistria page](www.fieldsofmistria.com/early-access)*</sub>
+
 Some data files for Fields of Mistria, used in my Guess-who Mistria game! 
 Contains data.json file containing information on characters, image folder containing images of all portraits (from each season, and beach variations for dateable characters) and a background from the starting screen of the game.
 
-If you want to use this data on your own coding project, a star on this repo or link in the README would be appreciated ;)
-Happy coding!
+If you want to use this data on your own coding project, a star on this repo and link in the README would be appreciated ;)
 
-This is accurate to the early access version.
+Happy coding 💖
+
+⭐ Created with most up-to-date info (April 2025) ⭐
 
 ## Data.json
 
