@@ -60,8 +60,8 @@
     "birthday": "Fall 26",
     "romanceable": true,
     "species": "Human",
-    "appearance": "",
-    "personality": "",
+    "appearance": "Long purple hair, purple/pink eyes with pink eyeshadow",
+    "personality": "Mysterious",
     "story": "Juniper is a mysterious sorceress drawn to Mistria when she learns that magical mists and monsters of legend have begun appearing in the area after the recent earthquake. She then starts up a bathhouse. The bath house is largely a cover for testing her newly empowered potions and spells on the player and other unsuspecting townsfolk, usually resulting in buffs (and occasionally funny accidents).",
     "loved_gifts": [
       "Ancient Royal Scepter",
@@ -170,7 +170,7 @@
     "birthday": "Fall 12",
     "romanceable": true,
     "species": "Human",
-    "appearance": "",
+    "appearance": "Short brown hair with twin buns, purple eyes, darker skin",
     "personality": "She is hard-working, friendly, and a romantic. She loves cooking, often experimenting with new recipes. She can often be found in the kitchen of the Sleeping Dragon Inn or tending to the gardens in front of the Manor.",
     "story": "",
     "loved_gifts": [
@@ -436,7 +436,7 @@
     "birthday": "Spring 16",
     "romanceable": true,
     "species": "Human",
-    "appearance": "Red hair, black eyes",
+    "appearance": "Red hair (dyed), black eyes",
     "personality": "He'll be curt with you at first, and is a bit vain and grumpy, but his heart is not imprenetrable.",
     "story": "March is the village's blacksmith, having inherited the forge and his skills from a long family line of master craftspeople.",
     "loved_gifts": [
@@ -1144,7 +1144,7 @@
     "species": "Human",
     "appearance": "Blonde hair which is kept in a bun with curtain bangs, black eyes",
     "personality": "Stern but kind, business-minded",
-    "story": "",
+    "story": "Co-owns the general store, is Head of Mistria's Chamber of Commerce and Head of the Saturday Market.",
     "loved_gifts": [
       "Ancient Gold Coin",
       "Cherry Cobbler",
@@ -1191,8 +1191,8 @@
     "gender": "M",
     "occupation": ["Part-Timer"],
     "relatives": ["March (Brother)", "Jade and Olin (parents)"],
-    "martial_status": "",
-    "birthday": "",
+    "martial_status": "Unavailable",
+    "birthday": "Spring 10",
     "romanceable": false,
     "species": "Human",
     "appearance": "Shor black/brown hair, black eyes, buff",
@@ -1226,9 +1226,7 @@
       "Silver Ore",
       "Stone Horse",
       "Stone",
-      "Weightless Stone",
-      "",
-      ""
+      "Weightless Stone"
     ],
     "hated_gift": "Rockbiter",
     "spring_filename": "spring_olric.png",
